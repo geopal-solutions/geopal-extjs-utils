@@ -49,6 +49,7 @@ Ext.create('Ext.ux.form.field.TimeWidgetField', {
 ##TimeWidgetField (Ext.ux.form.field.TimeWidgetField)
 
 Displays time widget as textfield (Ext.form.field.Text) with option to set time using timewidget (Ext.ux.form.field.TimeWidget)
+
 ![alt text](https://raw.githubusercontent.com/geopal-solutions/geopal-extjs-utils/master/demo/imgs/timepicker_opened.png "Time Field")
 
 Initialization: 
