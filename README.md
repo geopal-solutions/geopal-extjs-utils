@@ -4,7 +4,7 @@ geopal-extjs-utils
 
 ##TimeWidget (Ext.ux.form.field.TimeWidget)
 
-Displays time widget as sliders or numberpickers depending on specified options. 
+Displays time widget as sliders or numberpickers depending on specified options. Requires extjs 4.1
 
 Initialization: 
 ```javascript
